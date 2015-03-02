@@ -23,6 +23,7 @@ area and try to get a sense on the candidate.
 * what is your drive?
 * 3 tools you can't live without
 * what kind of blogs do you read?
+* where do you go for help if you stuck with problem for a long time?
 
 ## Career
 
