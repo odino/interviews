@@ -1,21 +1,38 @@
 # Interview questions
 
 Here you will find a list of questions
-I usually take inspiration from when I
-need to interview someone.
+I usually take inspiration from when I'm
+outta topics during an interview.
 
-(a little bit more of the process is described [here](http://odino.org/things-i-ask-during-interviews/))
+I think
+the most important part of the interview
+is the conversation and the attitude that
+the candidate shows in front of you (and your
+other colleagues, if he does multiple
+interview) but at the same time I usually
+find myself comfortable discussing things
+like "what do you think of multithreading?",
+as these type of questions open the doors
+for a broader and interesting discussion.
+
+(a tiny bit of the process I use is described [here](http://odino.org/things-i-ask-during-interviews/)
+, but I should definitely spend some more time
+to describe the method)
 
 Questions are divided in different areas,
-so I usually pick 1/2 question from each
-area and try to get a sense on the candidate.
+so I usually pick 5/6 question in total -- the
+whole interview usually lasts up to 1 hour
+as there is an introduction on the company,
+the introduction of the candidate etc etc. As I
+said, I should spend some more time describing the
+whole process in a while.
 
 ## Attitude / General
 
 * why are conferences / meetups important?
 * where do you see yourself in 3 years?
 * why should we hire you?
-* what are your reasons for joining Namshi?
+* what are your reasons for joining us?
 * do you have any open source code you'd like to share with me?
 * what are your selling points?
 * what are the things you suck at?
@@ -31,17 +48,6 @@ area and try to get a sense on the candidate.
 * could you mention some programming practices you're familiar with?
 * what are the next 3 things you want to learn?
 * what did you learn from your current manager?
-
-## Personalities
-
-* who is Frederick Brooks?
-* what is Misko Hevery known for?
-* who's the gang of four?
-* can you name some software engineers you really respect?
-* Why The Lucky Stiff: what does this tell you?
-* who's Roy Fielding?
-* who is the spokesman of HTTP/2?
-* who are some of the most known contributors to the HTTP protocol's specification?
 
 ## Open Source
 
@@ -123,7 +129,7 @@ area and try to get a sense on the candidate.
 
 * what is SOA?
 * what do you know about the HTTP cache?
-* what are the 5 pillars of REST?
+* what are the 5 pillars | tenets | rules of REST?
 * name the 3 most important thing, in your opinion, to keep in mind when writing software
 * what is HATEOAS and why is it important when designing a public API?
 * which HTTP methods do you know?
@@ -140,10 +146,13 @@ area and try to get a sense on the candidate.
 * what is the difference between complex and complicated?
 * say I need you to hire some people for the team. How will you find great software engineers?
 
+## Personalities
 
-
-
-
-
-
-
+* who is Frederick Brooks?
+* what is Misko Hevery known for?
+* who's the gang of four?
+* can you name some software engineers you really respect?
+* Why The Lucky Stiff: what does this tell you?
+* who's Roy Fielding?
+* who is the spokesman of HTTP/2?
+* who are some of the most known contributors to the HTTP protocol's specification?
