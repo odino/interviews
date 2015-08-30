@@ -40,6 +40,7 @@ whole process in a while.
 * what is your drive?
 * 3 tools you can't live without
 * what kind of blogs do you read?
+* what was the last thing you learned?
 * where do you look for help if you get stuck on a problem for too long?
 
 ## Career
@@ -127,6 +128,7 @@ whole process in a while.
 
 ## Architectures / protocols / API
 
+* what do you think about HTTP/2?
 * what is SOA?
 * what do you know about the HTTP cache?
 * what are the 5 pillars | tenets | rules of REST?
