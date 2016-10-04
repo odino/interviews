@@ -75,6 +75,7 @@ whole process in a while.
 ## PHP
 
 * think of PHP's history in the past 4 years. Can you name the 3 biggest revolutions in the language itself or in its ecosystem?
+* what is the difference between type-hinting in PHP5 and PHP7 ?
 
 ## Frontend
 
@@ -117,6 +118,8 @@ whole process in a while.
 * can you describe the strategy pattern?
 * what is smoke testing?
 * what is HMVC?
+* can you explain me the S.O.L.I.D principles?
+* what is the aim of using value objects in our model?
 
 ## Tech
 
