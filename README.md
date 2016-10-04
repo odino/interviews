@@ -118,8 +118,8 @@ whole process in a while.
 * can you describe the strategy pattern?
 * what is smoke testing?
 * what is HMVC?
-* can you explain me the fourth S.O.L.I.D principle ?
-* what is the aim of using value objects in our model ?
+* can you explain me S.O.L.I.D principles?
+* what is the aim of using value objects in our model?
 
 ## Tech
 
