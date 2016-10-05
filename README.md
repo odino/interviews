@@ -76,6 +76,8 @@ whole process in a while.
 
 * think of PHP's history in the past 4 years. Can you name the 3 biggest revolutions in the language itself or in its ecosystem?
 * what is the difference between type-hinting in PHP5 and PHP7 ?
+* what is a "zval"?
+* when you could use the "yield" statement?
 
 ## Frontend
 
@@ -120,6 +122,7 @@ whole process in a while.
 * what is HMVC?
 * can you explain me the S.O.L.I.D principles?
 * what is the aim of using value objects in our model?
+* what are the differences between statements and expressions? 
 
 ## Tech
 
