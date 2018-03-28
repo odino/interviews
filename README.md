@@ -69,7 +69,7 @@ whole process in a while.
 
 ## Mobile
 
-* how to you manage dependencies in your projects?
+* how do you manage dependencies in your projects?
 * what error reporting tools do you use?
 
 ## PHP
