@@ -5,22 +5,22 @@ I usually take inspiration from when I'm
 outta topics during an interview.
 
 I think
-the most important part of the interview
-is the conversation and the attitude that
+the most important parts of the interview
+are the conversation and the attitude that
 the candidate shows in front of you (and your
 other colleagues, if he does multiple
-interview) but at the same time I usually
+interviews) but at the same time I usually
 find myself comfortable discussing things
 like "what do you think of multithreading?",
 as these type of questions open the doors
-for a broader and interesting discussion.
+for a more broader and interesting discussion.
 
 (a tiny bit of the process I use is described [here](http://odino.org/things-i-ask-during-interviews/)
 , but I should definitely spend some more time
 to describe the method)
 
-Questions are divided in different areas,
-so I usually pick 5/6 question in total -- the
+Questions are divided into different categories,
+so I usually pick 5/6 questions in total -- the
 whole interview usually lasts up to 1 hour
 as there is an introduction on the company,
 the introduction of the candidate etc etc. As I
@@ -29,138 +29,138 @@ whole process in a while.
 
 ## Attitude / General
 
-* why are conferences / meetups important?
-* where do you see yourself in 3 years?
-* why should we hire you?
-* what are your reasons for joining us?
-* do you have any open source code you'd like to share with me?
-* what are your selling points?
-* what are the things you suck at?
-* why would you leave your current company?
-* what is your drive?
-* 3 tools you can't live without
-* what kind of blogs do you read?
-* what was the last thing you learned?
-* where do you look for help if you get stuck on a problem for too long?
+* Why are conferences / meetups important?
+* Where do you see yourself in 3 years?
+* Why should we hire you?
+* What are your reasons for joining us?
+* Do you have any open source code you'd like to share with me?
+* What are your selling points?
+* What are the things you suck at?
+* Why would you leave your current company?
+* What is your drive?
+* Name 3 tools you can't live without.
+* What kind of blogs do you read?
+* What was the last thing you learned?
+* Where do you look for help if you get stuck on a problem for too long?
 
 ## Career
 
-* what was the most complex project you worked on? Why was it complex?
-* could you mention some programming practices you're familiar with?
-* what are the next 3 things you want to learn?
-* what did you learn from your current manager?
+* What was the most complex project you worked on? Why was it complex?
+* Could you mention some programming practices you're familiar with?
+* What are the next 3 things you want to learn?
+* What did you learn from your current manager?
 
 ## Open Source
 
-* what is a BDFL? Why is the term so popular these days?
-* what are the five most important things when writing open source code?
+* What is a BDFL? Why is the term so popular these days?
+* What are the five most important things when writing open source code?
 
 ## JavaScript
 
-* describe an isomorphic JS application
-* how do you feel about browserify?
-* underscore vs lodash, what can you tell me?
-* name 3 NPM modules you can't live without
-* what framework would you use to build your next node-based HTTP API?
-* what do you think about promises?
-* what's  your opinion on ReactJS?
-* can you tell me what pjax is?
-* what is object.observe()?
+* Describe an isomorphic JS application
+* How do you feel about browserify?
+* Underscore vs lodash, what can you tell me?
+* Name 3 NPM modules you can't live without.
+* What framework would you use to build your next node-based HTTP API?
+* What do you think about promises?
+* What's  your opinion on ReactJS?
+* Can you tell me what pjax is?
+* What is object.observe()?
 
 ## Mobile
 
-* how do you manage dependencies in your projects?
-* what error reporting tools do you use?
+* How do you manage dependencies in your projects?
+* What error reporting tools do you use?
 
 ## PHP
 
-* think of PHP's history in the past 4 years. Can you name the 3 biggest revolutions in the language itself or in its ecosystem?
-* what is the difference between type-hinting in PHP5 and PHP7 ?
-* what is a "zval"?
-* when you could use the "yield" statement?
+* Recall PHP's history in the past 4 years. Can you name the 3 biggest revolutions in the language itself or in its ecosystem?
+* What is the difference between type-hinting in PHP5 and PHP7 ?
+* What is a "zval"?
+* What are some possible scenarios for usage of the "yield" statement?
 
 ## Frontend
 
-* we just deployed an application live and it's slow. Mention 5 things we should do to make it faster
-* do browsers read CSS selectors from right to left or left to right? Why?
-* what is "virtual DOM"?
-* what is "critical CSS"?
-* do you prefer server or client-side development?
-* how do you make cross-domain ajax requests?
+* We just deployed an application live and it's slow. Mention 5 things we could do to make it faster
+* Do browsers read CSS selectors from right to left or left to right? Why?
+* What is "virtual DOM"?
+* What is "critical CSS"?
+* Do you prefer server or client-side development?
+* How do you make cross-domain ajax requests?
 
 ## DevOps
 
-* why is python so uncool these days? Who is replacing it?
-* can Terraform provision beans in Elastic Beanstalk?
-* how do you provision new servers?
-* what is the main difference between traditional CM tools like Puppet / Chef vs Ansible / SaltStack?
-* which service discovery tools have you used so far?
-* you open your website and the browsers says it's not reachable. What do you do?
-* have you ever faced a kernel panic? How did you react?
-* what happens if you can't SSH to a machine?
+* Why is python so uncool these days? Who is replacing it?
+* Can Terraform provision beans in Elastic Beanstalk?
+* How do you provision new servers?
+* What is the main difference between traditional CM tools like Puppet / Chef vs Ansible / SaltStack?
+* Which service discovery tools have you used so far?
+* You open your website and the browsers says it's not reachable. What do you do?
+* Have you ever faced a kernel panic? How did you react?
+* What happens if you can't SSH to a machine?
 
 ## Programming
 
-* what can you tell me about TDD?
-* what are protocol buffers?
-* what is the difference between a list and a dictionary?
-* name the best programming language?
-* describe the facade pattern
-* can you describe the public API of your ideal event dispatcher
-* can you name some design patterns you really like?
-* what is agile development?
-* in which programming languages are you fluent?
-* what is the difference between a rebase and a merge, in git?
-* what is dependency injection and why is it good?
-* what is DDD?
-* do you know what Ragel is?
-* procedural / functional / OO: can you describe them?
-* why are interfaces useful?
-* what is an higher-order function?
-* can you describe the strategy pattern?
-* what is smoke testing?
-* what is HMVC?
-* can you explain me the S.O.L.I.D principles?
-* what is the aim of using value objects in our model?
-* what are the differences between statements and expressions? 
+* What can you tell me about TDD?
+* What are protocol buffers?
+* What is the difference between a list and a dictionary?
+* Which programming language do you think is the best?
+* Describe the facade pattern
+* Describe the public API of your ideal event dispatcher.
+* Name some design patterns you really like.
+* What is agile development?
+* In which programming languages are you fluent?
+* What is the difference between a rebase and a merge, in git?
+* What is dependency injection and why is it good?
+* What is DDD?
+* Do you know what Ragel is?
+* Describe the (Procedural || Functional || Object oriented) programming paradigm to me.
+* Why are interfaces useful?
+* What is an higher-order function?
+* Can you describe the strategy pattern?
+* What is smoke testing?
+* What is HMVC?
+* Can you explain the S.O.L.I.D principles to me?
+* What is the aim of using value objects in our model?
+* What are the differences between statements and expressions? 
 
 ## Tech
 
-* what happens when you hit enter in the browser's address bar?
-* what is the second-system effect?
-* what kind of testing mechanism do you know / use?
-* what do you think of multithreading?
-* what is the value of simplicity?
+* What happens when you hit enter in the browser's address bar?
+* What is the second-system effect?
+* What kind of testing mechanism do you know / use?
+* What do you think of multithreading?
+* What is the value of simplicity?
 
 ## Architectures / protocols / API
 
-* what do you think about HTTP/2?
-* what is SOA?
-* what do you know about the HTTP cache?
-* what are the 5 pillars | tenets | rules of REST?
-* name the 3 most important thing, in your opinion, to keep in mind when writing software
-* what is HATEOAS and why is it important when designing a public API?
-* which HTTP methods do you know?
-* what are microservices?
-* what is the second-system effect?
+* What do you think about HTTP/2?
+* What is SOA?
+* What do you know about the HTTP cache?
+* What are the 5 pillars || tenets || rules of REST?
+* Name the 3 most important things; in your opinion, to keep in mind when writing software.
+* What is HATEOAS and why is it important when designing a public API?
+* Which HTTP methods do you know?
+* What are microservices?
+* What is the second-system effect?
 * I say Stale-While-Revalidate, what do you say?
-* how are cookies sent from the server to the client and vice-versa?
+* How are cookies sent from the server to the client and vice-versa?
 
 ## Reasoning
 
-* how many cabs are there in this city?
-* how would you explain the color red to a blind person?
-* what's heavier, 1kg of feathers or 1kg of concrete?
-* what is the difference between complex and complicated?
-* say I need you to hire some people for the team. How will you find great software engineers?
+* How many cabs are there in this city?
+* How would you explain the color red to a blind person?
+* What is heavier: 1kg of feathers or 1kg of concrete?
+* What is the difference between complex and complicated?
+* Let's say I need you to hire some people for the team. How will you find great software engineers?
 
 ## Personalities
 
-* who is Frederick Brooks?
-* what is Misko Hevery known for?
-* who's the gang of four?
-* can you name some software engineers you really respect?
-* Why The Lucky Stiff: what does this tell you?
-* who's Roy Fielding?
-* who is the spokesman of HTTP/2?
-* who are some of the most known contributors to the HTTP protocol's specification?
+* Who is Frederick Brooks?
+* What is Misko Hevery known for?
+* Who are the gang of four?
+* Name some software engineers that you really respect.
+* What does the following phrase tell you: "Why The Lucky Stiff"?
+* Who is Roy Fielding?
+* Who is the spokesman of HTTP/2?
+* Who are some of the most known contributors to the HTTP protocol's specification?
